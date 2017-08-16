@@ -1,8 +1,8 @@
 # Spring boot 使用Redis数据库
 
-[Redis官网](http://redis.io/)
-[Redis中文社区](http://www.redis.cn/)
-[Spring-data-redis Reference](http://docs.spring.io/spring-data/redis/docs/1.6.2.RELEASE/reference/html/)
+[Redis官网](http://redis.io/)<br>
+[Redis中文社区](http://www.redis.cn/)<br>
+[Spring-data-redis Reference](http://docs.spring.io/spring-data/redis/docs/1.6.2.RELEASE/reference/html/)<br>
 
 > `简介`: Spring boot 对很多NoSql 数据库都有很好的支持, 提供了自动化配置支持
  
