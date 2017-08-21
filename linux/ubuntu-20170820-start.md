@@ -1,8 +1,13 @@
 # Ubuntu 输入法 & 源
 
+linux 版本: `ubuntu 16.04 lts`  -- 源对应该版本
 
 [Ubuntu 官网](http://www.ubuntu.org.cn/global)
 
+###  命令初识
+> sudo是superuser do的简写，sudo是linux系统管理指令，是允许系统管理员让普通用户执行一些或者全部的root命令的一个工具，如halt，reboot，su等等。这样不仅减少了root用户的登陆 和管理时间，同样也提高了安全性。<br>
+apt是个很完整和先进的软件包管理程式，使用他能够让您，又简单，又准确的找到您要的的软件包， 并且安装或卸载都很简洁。他还能够让您的任何软件都更新到最新状态，而且也能够用来对ubuntu进行升级。<br>
+"apt是需要用命令来操作的软件，但是现在也出现了很多有图像的软件，比如Synaptic, Kynaptic 和 Adept。"    -- 百度知道
 
 ### 设置中文:
 ```
